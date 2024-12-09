@@ -1,4 +1,4 @@
-# Basic Backend Project
+# Basic Backend setup
 
 A  backend project built using Node.js and Express.js.
 
